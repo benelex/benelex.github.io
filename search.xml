@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>量子化学（一）基本概念</title>
+      <link href="/2023/02/07/%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+      <url>/2023/02/07/%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<h1 id="量子化学简介"><a href="#量子化学简介" class="headerlink" title="量子化学简介"></a>量子化学简介</h1><p>计算化学是物理化学的一个分支，得益于计算机的高速发展。我们能通过计算机来模拟研究物质的物理化学性质。根据模拟的方法和研究的主要内容又可将计算化学分为量子化学、分子模拟等领域。</p><p>其中量子化学，主要的研究重点是利用量子力学原理对化学体系进行研究（模拟计算），以解决化学问题，着眼点在电子结构和精确结果上。</p><h2 id="量子化学有什么用"><a href="#量子化学有什么用" class="headerlink" title="量子化学有什么用"></a>量子化学有什么用</h2><h1 id="量子力学"><a href="#量子力学" class="headerlink" title="量子力学"></a>量子力学</h1><h2 id="算符"><a href="#算符" class="headerlink" title="算符"></a>算符</h2><h2 id="厄米算符"><a href="#厄米算符" class="headerlink" title="厄米算符"></a>厄米算符</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 量子化学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="/2023/01/09/2023-1-9%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/01/09/2023-1-9%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2023/01/09/hello-world/"/>
+      <url>/2023/01/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>首先，欢迎各位来到我的博客。在此前的学习生涯中，我很少重视积累。因为那时的我并没有找到积累的意义，每次考试不上不下，成绩又能应付家长，何必花大力气积累呢？</p><p>彼时的我，相较于积累更喜欢学习新知识。如果学过一遍的东西，我很少去看第二遍。所以平常单元考的成绩往往要强于期末考试，也正是因为这一不好的习惯，我在小考、中考和高考中都失利过。小升初都差点没考上，还交了几千的择校费；中考也是不太理想，没能出县城上学；而第一次高考也才超一本线几分。尽管如此，我依然不以为然。</p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">import gui</span><br><span class="line"></span><br><span class="line">$ hexo new <span class="string">&quot;My New Post &quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
