@@ -4,17 +4,21 @@
   
     
     <entry>
-      <title>韦小绿unit1</title>
-      <link href="/2023/02/07/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A01/"/>
-      <url>/2023/02/07/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A01/</url>
+      <title>全自动凯氏定氮仪法测蛋白质</title>
+      <link href="/2023/02/16/%E5%87%AF%E5%BC%8F%E5%AE%9A%E6%B0%AE/"/>
+      <url>/2023/02/16/%E5%87%AF%E5%BC%8F%E5%AE%9A%E6%B0%AE/</url>
       
-        <content type="html"><![CDATA[<h1 id="BENE"><a href="#BENE" class="headerlink" title="BENE"></a>BENE</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">A prayer that asks for god&#x27;s blessing, especially a prayer that concludes a worship service.</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">someone who helps another person or group, especially by giving money.</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">a person or organization that benefits or is expected to benefit from something, especially one that receives money or property when someone dies.</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Kindness, generosity</span><br></pre></td></tr></table></figure><h1 id="AM"><a href="#AM" class="headerlink" title="AM"></a>AM</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">friendly, peaceful</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">charmed or fascinated; inflamed with love.</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h1 id="感恩"><a href="#感恩" class="headerlink" title="感恩"></a>感恩</h1><p>正所谓，吃水不忘打井人。我们能高效且准确地测定蛋白质，多亏了丹麦的化学键凯道尔。这里本来是要找资料，介绍一下这位伟大的化学家的，但是目前搜到的资料有限。那么就先挖坑了。</p><h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><p>凯氏定氮法的理论基础是蛋白质中的含氮亮通常占其总质量的16%左右（12%——19%）。因此可以通过测定蛋白质中的含氮量，进而推算初物质中的总蛋白质含量（假设测定物质中的氮全来自蛋白质）。</p><h1 id="理论基础"><a href="#理论基础" class="headerlink" title="理论基础"></a>理论基础</h1><p>【改用化学方程式】<br>蛋白质在硫酸铜的催化下与浓硫酸反应，生成铵盐；<br>铵盐与强碱反应生成弱碱，在高温条件下生成氨气，收集到锥形瓶中（含有硼酸吸收）<br>使用标准氯化氢滴定，进而计算出样品中氮量</p><h1 id="操作及常见问题"><a href="#操作及常见问题" class="headerlink" title="操作及常见问题"></a>操作及常见问题</h1><p>根据GB 5009.5-2016测定蛋白质的方法，自动凯氏定氮仪法： </p><h2 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h2><p>称取充分混匀的固体试样0.2g~2g、半固体试样2g~5g或液体试样10g~25g(约当于30mg~40mg氮),精确至0.001g,至消化管中；<br>再加入0.4g硫酸铜、6g硫酸钾及20mL 硫酸于消化炉进行消化；<br>当消化炉温度达到420℃之后,继续消化1h,此时消化管中的液体呈绿色透明状,取出冷却后加入50mL水,于自动凯氏定氮仪(使用前加入氢氧化钠溶液,盐酸或硫酸标准溶液以及含有混合指示剂A 或 B的硼酸溶液)；<br>上实现自动加液、蒸馏、滴定和记录滴定数据的过程。</p><h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><p>1：每次使用结束，必须擦干净，防止试剂服饰仪器，影响测试精度及使用寿命；<br>2：</p><h1 id="日常维护"><a href="#日常维护" class="headerlink" title="日常维护"></a>日常维护</h1><h2 id="消化炉"><a href="#消化炉" class="headerlink" title="消化炉"></a>消化炉</h2><p>1：使用完毕必须擦洗干净；<br>2：定期检查抽气泵，防止在工作中，影响消化结果。（可能使得吸入的液体不准，直接影响最终结果）<br>3：消化结束后，样品放在冷却架上面，不要关闭冷凝水；<br>4：冷却至室温取下毒气罩，不要将废液低到炉体上；<br>5：驴体散热器保持干燥，防止受潮。</p><h2 id="定氮仪"><a href="#定氮仪" class="headerlink" title="定氮仪"></a>定氮仪</h2><p>1：实验完，擦干净；<br>2：将进碱管提起来，打开加碱开关，把管道内的碱液全部抽空<br>3：把进碱管放入沸水或5%稀盐酸）硼酸），打开加碱开关过碱液胶管和检泵，然后换干净消化管套上，打开蒸汽，增六10min，关闭电源后把蒸发炉的蒸馏水排干净；<br>4：检查两根溶液（酸、碱）溶液管端头的管内过滤器有无赃物<br>5：冬季防冻</p><h1 id="凯氏定氮仪常见操作问题"><a href="#凯氏定氮仪常见操作问题" class="headerlink" title="凯氏定氮仪常见操作问题"></a>凯氏定氮仪常见操作问题</h1><p>Q：蒸馏时剧烈翻滚，会对操作者造成危害吗？<br>A：一般不会，翻滚的原因是大量水蒸气进入消化管使得液体翻滚，而且仪器有超压保护装置，可以保持管路内部常压，避免危险，除非你真的点背。</p><p>Q：凯氏定氮仪对水质有什么要求吗？<br>A：要求蒸馏水桶子里面装蒸馏水（）或纯水（），机器长期不用的化记得将蒸馏器里的水倒掉。</p><p>Q：凯氏定氮仪蒸锅不加热，不能产生蒸汽<br>A：如果机器正常加碱，不能加热出蒸汽，可能是加热丝烧坏，可用万用表测量，不通则可确定加热丝损坏。如果机器不能正常加碱，且开机后没有任何声音，可判断是保险丝烧坏。</p><p>Q：工作中，不能加碱、加碱没有声音为什么？<br>A：检查碱桶是否漏气，被气充鼓机才能正常工作；仪器没有认真清洗，碱管产生结晶，导致加液流速低，无声音。</p><p>Q：消化管进满水，怎么解决？<br>A：由于机器控制水位器导电性降低造成，解决方法：打开水位器去除探针用砂纸打磨，除去氧化层；蒸馏水桶加入3-5g实验用氯化钠，摇匀溶解。硼酸吸收液容器进水同理/</p>]]></content>
       
       
       
         <tags>
             
-            <tag> 英语 </tag>
+            <tag> 检测 </tag>
+            
+            <tag> 蛋白质 </tag>
+            
+            <tag> 凯氏定氮仪 </tag>
             
         </tags>
       
@@ -34,6 +38,25 @@
         <tags>
             
             <tag> 量子化学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>韦小绿unit1</title>
+      <link href="/2023/02/07/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A01/"/>
+      <url>/2023/02/07/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A01/</url>
+      
+        <content type="html"><![CDATA[<h1 id="BENE"><a href="#BENE" class="headerlink" title="BENE"></a>BENE</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">A prayer that asks for god&#x27;s blessing, especially a prayer that concludes a worship service.</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">someone who helps another person or group, especially by giving money.</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">a person or organization that benefits or is expected to benefit from something, especially one that receives money or property when someone dies.</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Kindness, generosity</span><br></pre></td></tr></table></figure><h1 id="AM"><a href="#AM" class="headerlink" title="AM"></a>AM</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">friendly, peaceful</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">charmed or fascinated; inflamed with love.</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 英语 </tag>
             
         </tags>
       
