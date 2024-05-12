@@ -25,6 +25,27 @@
     
     
     <entry>
+      <title>Hill模型推导及在真菌毒素中的应用</title>
+      <link href="/2024/05/08/Hill%E6%A8%A1%E5%9E%8B/"/>
+      <url>/2024/05/08/Hill%E6%A8%A1%E5%9E%8B/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Hill模型"><a href="#Hill模型" class="headerlink" title="Hill模型"></a>Hill模型</h1><p>1910年，Archibald Vivian Hill博士为了阐释为何血红蛋白的氧气结合曲线为什么会呈现S型，进而提出Hill模型。</p><h1 id="模型推导"><a href="#模型推导" class="headerlink" title="模型推导"></a>模型推导</h1><h2 id="简单匹配"><a href="#简单匹配" class="headerlink" title="简单匹配"></a>简单匹配</h2><p>Hill模型的推导过程比较简单，以蛋白结合配体为例子，蛋白为[P],配体为[L],两者结合为[PL]<br>则存在以下公式：</p><script type="math/tex; mode=display">P + L \rightleftharpoons PL \qquad(1)</script><p>根据质量定理法则，存在以下关系</p><script type="math/tex; mode=display">K_a=\frac{[PL]}{[P][L]}=\frac{k_a}{k_d} \qquad (2)</script><p>其中k_a 和k_b分别是比例常数，K_a为结合常数<br>当配体浓度远大于结合位点的浓度时，[L]浓度保持恒定，则结合平衡公式为：</p><script type="math/tex; mode=display">Y=\frac{已经结合的键}{总结合键}=\frac{[PL]}{[PL]+[P]} \qquad (3)</script><p>将公式（1）和公式（2）带入公式(3)存在以下关系：</p><script type="math/tex; mode=display">Y=\frac{K_a[P][L]}{K_a[L][P]+[P]}=\frac{K_a[L]}{K_a[L]+1}=\frac{[L]}{[L]+\frac{1}{K_a}}  \qquad (4)</script><h2 id="配体与多个结合位点结合"><a href="#配体与多个结合位点结合" class="headerlink" title="配体与多个结合位点结合"></a>配体与多个结合位点结合</h2><p>对于存在n个结合位点的配体，方程（1）变为</p><script type="math/tex; mode=display">P + nL \rightleftharpoons PL_{n} \qquad(5)</script><p>相应的，结合常数和Y值表达式变为：</p><script type="math/tex; mode=display">K_a=\frac{[PL_{n}]}{[P][L]^{n}} \qquad (6)</script><script type="math/tex; mode=display">Y=\frac{[L]^{n}}{[L]^{n}+\frac{1}{K_a}}  \qquad (7)</script><h2 id="在药物、毒素领域中的应用"><a href="#在药物、毒素领域中的应用" class="headerlink" title="在药物、毒素领域中的应用"></a>在药物、毒素领域中的应用</h2><p>同样是非线性模型，Hill模型比S形函数、多项式等模型更具有可解释性。因为Hill模型可基于简单的生物化学机理推理。<br>其在药理学和毒理学的一般拟合形式如下：</p><script type="math/tex; mode=display">E=E_{max}\frac{x^{n}}{EC_{50}^{n}+x_{n}} \qquad(8)</script><p>其中n表示“协同指数”，用以表示结合位点之间的相互影响。如可因为物理空间原因，或者大分子构象原因，结合位点可能受到配体分子的影响而构象变化。<br>一般而言n大于1时，表明化合物的分子与特定结构结合时会增加对配体的结合能力。</p><h1 id="药物、毒素联合作用下的Hill模型应用"><a href="#药物、毒素联合作用下的Hill模型应用" class="headerlink" title="药物、毒素联合作用下的Hill模型应用"></a>药物、毒素联合作用下的Hill模型应用</h1><p>对于多种药物联合作用的，需要注意结合位点的异质性能。因为药物（毒物）作用的途径比较复杂，可能需要考虑DDI PPI DTI等结合网络。但是对于简单的结合可以考虑将LOEWE模型和BLISS模型应用到Hill中</p><script type="math/tex; mode=display">LOEWE: E=\frac{(x+y)^{n}}{EC_{50}^{n}+(x+y)^{n}} \qquad(9)</script><script type="math/tex; mode=display">BLISS: E=\frac{EC_{50}^{n}(x^{n}+y^{n})+x^{n}y^{n}}{(EC_{50}^{n}+x^{n})(EC_{50}^{n}+y^{n})}  \qquad(10)</script><p>同样的，本处n值也表示了“协同指数”。但是与单独的HIll模型不同，不同的药物、毒物组合会导致具有不同的EC50值，（n值也应该不同）<br>n值不同会导致拟合函数在不同的区域具有不同的准确度。</p><p><img src="https://s21.ax1x.com/2024/05/12/pke6vPH.png" alt="不同n值下的Hill方程.png" title="不同n值下的Hill方程.png"><br><img src="https://imgse.com/i/pke6vPH" alt="不同n值下的Hill方程.png" title="不同n值下的Hill方程.png"></p><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 科研 </tag>
+            
+            <tag> 效应剂量 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>机器学习的基本概念</title>
       <link href="/2024/04/19/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/"/>
       <url>/2024/04/19/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89/</url>
